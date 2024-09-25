@@ -51,6 +51,10 @@ html {
 /* End of Navbar */
 
 /* Credit */
+.about {
+    text-decoration: underline;
+}
+
 .about:hover {
     text-decoration: underline !important;
     color: #D8A25E;
@@ -73,7 +77,6 @@ html {
     }
 }
 
-/* Handphone */
 @media only screen and (max-width: 768px) {
     .img-carousel {
         height: 24em;
@@ -85,6 +88,19 @@ html {
 }
 
 /* End of Welcomers */
+
+/* Maps */
+.maps {
+    margin-top: 8em;
+    margin-bottom: 4em;
+}
+
+.maps-iframe {
+    display: flex;
+    justify-content: center;
+}
+
+/* End of Maps */
 
 /* Telusuri Lebih Lanjut */
 .btn-tlsr:hover {
@@ -161,7 +177,7 @@ html {
 
 /* Gallery */
 .card {
-    margin-top: 1.5rem;
+    margin-top: 2.8rem;
 }
 
 @media only screen and (max-width: 991px) and (min-width: 767px) {
@@ -195,18 +211,6 @@ html {
     border: 2px solid #D8A25E;
 }
 /* End of Gallery */
-
-/* Maps */
-.maps {
-    margin-top: 4em;
-    margin-bottom: 4em;
-}
-
-.maps-iframe {
-    display: flex;
-    justify-content: center;
-}
-/* End of Maps */
 
 /* ===============MADURA=========== */
 .raflianoza {
