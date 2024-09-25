@@ -213,12 +213,10 @@ html {
 /* End of Gallery */
 
 /* ===============MADURA=========== */
-.raflianoza {
-    color: #D8A25E!important;
-    text-decoration: underline;
-}
-
 .raflianoza:hover {
     color: #8e5e24!important;
-    text-decoration: none;
+}
+
+.bti:hover {
+    color: #D8A25E;
 }
