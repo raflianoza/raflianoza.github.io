@@ -87,6 +87,12 @@ html {
     }
 }
 
+@media only screen and (max-width: 555px) {
+    .img-carousel {
+        max-height: 17rem!important;
+    }
+}
+
 /* End of Welcomers */
 
 /* Maps */
@@ -124,6 +130,10 @@ html {
 /* Kebudayaan */
 .budaya {
     margin-top: 2em;
+}
+
+.img-budaya {
+    border-color: #D8A25E!important;
 }
 
 @media only screen and (max-width: 765px) {
@@ -201,16 +211,18 @@ html {
     }
 }
 
-.btn-peta {
+.btn-map {
+    margin-top: 1rem;
     background-color: #D8A25E;
     color: #A04747;
 }
 
-.btn-peta:hover {
+.btn-map:hover {
     background-color: #A04747;
     color: #D8A25E;
-    border: 2px solid #D8A25E;
+    border: .1px solid #D8A25E;
 }
+
 /* End of Gallery */
 
 /* ===============MADURA=========== */
