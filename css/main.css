@@ -49,7 +49,7 @@ html {
     background-color: #A04747;
 }
 
-.nav-link:hover, .navbar-brand:hover {
+.nav-link:hover, .navbar-brand:hover, .active-page {
     text-decoration: underline;
     color: #EEDF7A;
 }
