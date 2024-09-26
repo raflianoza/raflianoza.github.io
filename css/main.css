@@ -36,6 +36,12 @@ html {
     text-align: justify;
 }
 
+/* Image Filter */
+
+.img-filter {
+    filter: brightness(70%) !important;
+}
+
 /* End of Body */
 
 /* Navbar */
