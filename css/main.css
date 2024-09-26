@@ -65,6 +65,11 @@ html {
 /* ================INDEX================== */
 
 /* Welcomers */
+.container-judul {
+    display: inline-block!important;
+}
+
+
 .img-carousel {
     filter: brightness(60%);
     height: 29em;
@@ -91,8 +96,8 @@ html {
 
 /* Maps */
 .maps {
-    margin-top: 8em;
-    margin-bottom: 4em;
+    margin-top: 8.5em;
+    margin-bottom: 1.7rem;
 }
 
 .maps-iframe {
@@ -103,6 +108,7 @@ html {
 /* End of Maps */
 
 /* Telusuri Lebih Lanjut */
+
 .btn-tlsr:hover {
     background-color: #D8A25E;
     color: #A04747;
@@ -219,4 +225,5 @@ html {
 
 .bti:hover {
     color: #D8A25E;
+    font-style: normal!important;
 }
