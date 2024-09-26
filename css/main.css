@@ -65,11 +65,6 @@ html {
 /* ================INDEX================== */
 
 /* Welcomers */
-.container-judul {
-    display: inline-block!important;
-}
-
-
 .img-carousel {
     filter: brightness(60%);
     height: 29em;
