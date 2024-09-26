@@ -56,10 +56,23 @@ html {
 
 /* End of Navbar */
 
+/* Telusuri Lebih Lanjut */
+.btn-tlsr:hover {
+    background-color: #D8A25E;
+    color: #A04747;
+}
+
+.active-modal {
+    color: #551A8B;
+}
+
+/* End of Telusuri Lebih Lanjut */
+
 /* Credit */
 .about {
     text-decoration: underline;
 }
+
 
 .about:hover {
     text-decoration: underline !important;
@@ -113,15 +126,6 @@ html {
 }
 
 /* End of Maps */
-
-/* Telusuri Lebih Lanjut */
-
-.btn-tlsr:hover {
-    background-color: #D8A25E;
-    color: #A04747;
-}
-
-/* End of Telusuri Lebih Lanjut */
 
 /* =================BUDAYA================= */
 
