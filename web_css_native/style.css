@@ -59,6 +59,7 @@ nav a:hover {
 }
 .col-img {
     margin-right: 1rem;
+    text-align: center;
 }
 .col-img > img {
     width: 30rem;
